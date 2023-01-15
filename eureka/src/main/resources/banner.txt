@@ -1,0 +1,16 @@
+${AnsiColor.BLUE}  ____      __  __                 _
+${AnsiColor.BLUE} |  _ \ (_)|  \/  |            (_)| |
+${AnsiColor.BLUE} | |_) | _ | \  / | _   _  ____ _ | | __
+${AnsiColor.BLUE} |  _ < | || |\/| || | | ||_  /| || |/ /
+${AnsiColor.BLUE} | |_) || || |  | || |_| | / / | ||   <
+${AnsiColor.BLUE} |____/ |_||_|  |_| \__,_|/___||_||_|\_\
+
+${AnsiColor.WHITE}█
+${AnsiColor.WHITE}█
+${AnsiColor.WHITE}█  ${AnsiColor.BLACK}Application Name : ${spring.application.name}
+${AnsiColor.WHITE}█  ${AnsiColor.CYAN}Spring Boot Version : ${spring-boot.formatted-version}
+${AnsiColor.WHITE}█  ${AnsiColor.BRIGHT_BLACK}Java Version : ${java.version}
+${AnsiColor.WHITE}█  ${AnsiColor.BRIGHT_BLACK}Eureka Endpoint : http://localhost:${server.port}/eureka/
+${AnsiColor.WHITE}█
+
+
