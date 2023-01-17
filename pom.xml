@@ -12,6 +12,8 @@
         <module>gateway</module>
         <module>eureka</module>
         <module>shared</module>
+        <module>core</module>
+        <module>entity</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -49,6 +51,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
+
         </dependencies>
     </dependencyManagement>
 
